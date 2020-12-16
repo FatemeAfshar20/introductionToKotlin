@@ -1,6 +1,7 @@
 package com.example.introductiontokotlin.repository;
 
 import com.example.introductiontokotlin.model.User;
+import com.example.introductiontokotlin.model.UserKotlin;
 
 import java.util.ArrayList;
 import java.util.List;
